@@ -1,0 +1,52 @@
+#start-btn {
+    width:40% ;
+}
+
+#camera{
+    width : 360px ;
+    height: 250px;
+    border:1px solid grey;
+
+}
+
+#logo_img{
+    width:50px;
+    border-radius :10px;
+}
+
+#textbox{
+    width:300px;
+}
+
+body{
+    background-image: url("bg1.jpg");
+    
+}
+
+h1{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+h4{
+    font-family: serif;
+}
+
+
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: right;
+}
+
+img:hover {
+    border-radius: 80px;
+    border: 2px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
